@@ -1,0 +1,16 @@
+body{
+		background: purple;
+	}
+
+	h1 {text-align: center;
+		color: yellow;}
+
+	p{
+		color: grey;
+	}
+	ul{color: blue;}
+
+	#hi{
+		color: orange;
+		font-size: 50px}
+		#m{background: pink}
